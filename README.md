@@ -13,6 +13,10 @@ DarshChaurasia.com is designed to be a comprehensive platform that not only pres
 - **Dynamic Contact Form:** Allows visitors to leave messages or inquiries.
 - **Responsive Design:** Ensures the website is accessible on various devices and screen sizes.
 
+## Prototype
+<img src = "https://github.com/darshchaurasia/portfolio/assets/43368969/f48f6ad0-8daa-4e85-aa57-dceec6ba821a" height="480px" >
+<img src = "https://github.com/darshchaurasia/portfolio/assets/43368969/a15e7c69-9c3f-482a-bfde-ee3a8bae1e5d" height ="480px">
+
 ## Built With
 
 - HTML
